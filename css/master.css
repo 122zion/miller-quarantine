@@ -1,1 +1,8 @@
 /* This is where my CSS styles are going to go! */
+h1{
+  text-align: center;
+  font-family: 'Chelsea Market', cursive;
+}
+body{
+  background-color: #EF946C;
+}
